@@ -1,5 +1,6 @@
 excerpt_separator: ""
-pygments: true
+pygments: false
+highlighter: rouge
 markdown: kramdown
 url: http://vikas-bhardwaj.github.io
 title: Source Code
