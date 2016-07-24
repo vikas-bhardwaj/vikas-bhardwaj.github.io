@@ -1,6 +1,14 @@
 ---
 published: true
-title: whoami
+title: Hello World!
 layout: post
 ---
-## Hello World!
+Hello Reader,
+
+Thanks for taking the time to visit my blog. I'm writing this blog with the hope to effectively communicate my understanding of Computer Science (CS) with you. My intended audience is anyone who wishes to learn the fundamentals of Computer Science. I plan to write this blog like a story, and we will learn and marvel at how technology has shaped this century. I'm using **Github** for hosting this blog. Its fast, free and efficient for a blog for this nature. I will ideally write one post per week and as we progress the posts will get complex in nature. The rough outline I have in mind is as follows. It will get more detailed as we get there. 
+
+* Basics 
+  - Fundamentals of a Computer System 
+  - Computing in the 21st Century
+  - Working with Operating Systems
+  - The Internet
