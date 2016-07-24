@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://vikas-bhardwaj.github.io
+title: Infinite Circles
+tagline: Practical Computer Science for Beginners
+description: My awesome new site
+paginate: 3
