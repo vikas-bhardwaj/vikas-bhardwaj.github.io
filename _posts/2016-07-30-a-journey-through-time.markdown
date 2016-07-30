@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: A journey through time
 layout: post
 ---
@@ -8,4 +8,3 @@ layout: post
 ### What is Digital
 
 ### Why do we need a machine to do math?
-
