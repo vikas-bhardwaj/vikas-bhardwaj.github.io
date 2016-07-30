@@ -1,6 +1,6 @@
 ---
 published: true
-title: Computation: A Journey through Time
+title: Computation - A Journey through Time
 layout: post
 ---
 **Work In Progress**
